@@ -6,7 +6,6 @@ Register a task from the CSV to the project in asana.
 no,title,description
 100,asana task title,"asana note"
 ```
-
 ## Quickstart
 1. Install package. (`npm install`)
 2. Copy .env.example as .env and set values for your own project. 
